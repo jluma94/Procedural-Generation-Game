@@ -1,0 +1,9 @@
+# Whitelisting Patterns: https://jasonstitt.com/gitignore-whitelisting-patterns
+
+# Ignore everything in project folder
+/Project Genesis/*
+
+# Exempt the following
+!.gitignore
+!Project Genesis/Assets/
+!Project Genesis/ProjectSettings/
